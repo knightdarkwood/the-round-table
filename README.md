@@ -1,2 +1,2 @@
 # the-round-table
-Practive website
+Practice website
